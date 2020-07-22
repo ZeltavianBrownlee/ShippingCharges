@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\ShippingCharges\ShippingCharges\bin\Debug\ShippingCharges.exe.config
+C:\Users\user\source\repos\ShippingCharges\ShippingCharges\bin\Debug\ShippingCharges.exe
+C:\Users\user\source\repos\ShippingCharges\ShippingCharges\bin\Debug\ShippingCharges.pdb
+C:\Users\user\source\repos\ShippingCharges\ShippingCharges\obj\Debug\ShippingCharges.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ShippingCharges\ShippingCharges\obj\Debug\ShippingCharges.exe
+C:\Users\user\source\repos\ShippingCharges\ShippingCharges\obj\Debug\ShippingCharges.pdb
